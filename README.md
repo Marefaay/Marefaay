@@ -28,7 +28,7 @@
     </td>
     <td width="40%" align="center">
       <!-- صورة تقنية متحركة تعطي طابع الـ Matrix والبيانات -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" style="border-radius:15px;" />
+      <img src="matrix.gif" width="100%" style="border-radius:15px;" />
     </td>
   </tr>
 </table>
