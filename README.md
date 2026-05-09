@@ -110,9 +110,9 @@
 </div>
 
 <div align="center">
-  <code style="color: #2196F3; font-family: monospace; font-size: 1.8em;">
+  <h3 style="color: #2196F3; font-family: monospace; font-size: 3em;">
     Thanks for Visiting
-  </code>
+  </h3>
 </div>
 <br>
 <hr>
