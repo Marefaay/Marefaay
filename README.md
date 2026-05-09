@@ -5,7 +5,7 @@
 
 <!-- الهيدر الرئيسي مع تأثيرات بصرية -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mahmoud%20Ahmed%20Araby&fontSize=70&animation=fadeIn" />
+
   <h3>🚀 Data Analyst | Programming Instructor</h3>
   <p><i>Turning complex data into actionable insights & mentoring the next generation of developers.</i></p>
 </div>
@@ -83,11 +83,11 @@
 
 # 📈 GitHub Stats & Activity
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marefaay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marefaay&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Marefaay&theme=tokyonight"/>
