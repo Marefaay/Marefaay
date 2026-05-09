@@ -1,58 +1,85 @@
-<!-- Visitors Count Badge - يظهر في أعلى اليمين مثل الصورة الأصلية -->
+<!-- عداد الزوار بتصميم كبسولة احترافي -->
 <div align="right">
-  <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FUSERNAME&labelColor=%2337d67a&countColor=%23263238&style=flat" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=MAAraby&label=PROFILE+VIEWS&color=0e76a8&style=flat-square" alt="Views" />
 </div>
 
-<!-- Main Heading - العناوين الرئيسية محاذة للوسط -->
+<!-- الهيدر الرئيسي مع تأثيرات بصرية -->
 <div align="center">
-  <h1>👋 Hello, I'm Mahmoud Ahmed Araby</h1>
-  <h3>Data Analyst | Programming Instructor</h3>
-  <br>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mahmoud%20Ahmed%20Araby&fontSize=70&animation=fadeIn" />
+  <h3>🚀 Data Analyst | Programming Instructor | Web Developer</h3>
+  <p><i>Turning complex data into actionable insights & mentoring the next generation of developers.</i></p>
 </div>
 
-<!-- Intro & Animation Section -->
+<br>
+
+<!-- قسم التعريف الشخصي بنظام البطاقة مع أنيميشن -->
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
+      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/wave.gif" width="30px"> <b>About Me</b>
+      <br><br>
       <ul>
-        <li>🔭 I’m currently working as a <b>Programming Instructor</b> at <b>E-Youth</b> for the <b>DECI initiative (MCIT)</b>.</li>
-        <li>💻 Focusing on mentoring students in the programming track during their learning journey.</li>
+        <li>🔭 <b>Programming Instructor</b> at <b>E-Youth</b> for the <b>DECI initiative (MCIT)</b>.</li>
+        <li>💡 <b>Empowering students</b> to master programming through hands-on mentoring.</li>
         <li>🎓 Graduate of <b>Computers Science and Artificial Intelligence</b>.</li>
-        <li>☁️ I have a keen interest in <b>Web Development</b> & <b>WordPress</b>.</li>
-        <li>📫 Feel free to reach out: <a href="mailto:mrefaay271@gamil.com"><b>mrefaay271@gamil.com</b></a></li>
+        <li>🌐 Specialist in <b>Web Development</b> (React, Next.js) & <b>WordPress</b> customization.</li>
+        <li>📊 Expert in <b>Data Analysis</b> using SQL, Power BI, and Python.</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- تأكد من وجود ملف matrix.gif في نفس المجلد، أو استخدم رابطاً خارجياً -->
-      <img src="matrix.gif" alt="Coding GIF" width="100%" />
+    <td width="40%" align="center">
+      <!-- صورة تقنية متحركة تعطي طابع الـ Matrix والبيانات -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" style="border-radius:15px;" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- Skills & Tools Section - إضافة لمسة جمالية مثل الصورة الأصلية -->
+<!-- قسم المهارات باستخدام أيقونات ملونة واحترافية -->
 <div align="center">
-  <h2>< > Skills & Tools:</h2>
-  <br>
+  <h2> 🛠️ Tech Stack & Tools </h2>
   
-  <!-- Data Analysis Skills -->
-  <img src="https://img.shields.io/badge/SQL-acc189?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  
-  <br><br>
-  
-  <!-- Instructor & Tech Skills -->
-  <img src="https://img.shields.io/badge/Mentoring-4CAF50?style=for-the-badge&logo=googleclass&logoColor=white" alt="Mentoring" />
-  <img src="https://img.shields.io/badge/Web_Development-2196F3?style=for-the-badge&logo=w3c&logoColor=white" alt="WebDev" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <!-- Data Stack -->
+  <p align="left"><b>📊 Data Analysis:</b></p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/SQL-acc189?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  </p>
+
+  <!-- Web Stack -->
+  <p align="left"><b>💻 Development:</b></p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </p>
 </div>
 
-<!-- GitHub Stats Section - قسم إحصائيات اختياري لإضفاء احترافية -->
-<br><br>
+<br>
+
+<!-- إحصائيات GitHub بتصميم متطور -->
 <div align="center">
-  <h2>📊 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <h2> 📈 Activity & Stats </h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
+<br>
+
+<!-- قسم التواصل بنظام الأزرار -->
+<div align="center">
+  <h2>📫 Let's Connect</h2>
+  <a href="mailto:mrefaay271@gamil.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br>
+<hr>
+<p align="center"><i>"Building the future, one line of code at a time."</i></p>
