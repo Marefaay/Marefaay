@@ -1,17 +1,17 @@
 <div align="center">
   <h1>Mahmoud Ahmed Ahmed Araby</h1>
-  <p>Front-End Developer | Programming Instructor</p>
+  <p>Data analyst | Programming Instructor</p>
 </div>
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="100%">
       <ul>
-        <li>🔭 حالياً أعمل كـ Front-End Developer بخبرة سنة في ReactJS.</li>
-        <li>🎓 خريج كلية الحاسبات والمعلومات.</li>
-        <li>👨‍🏫 مدرب برمجة في مبادرة أشبال مصر الرقمية (DECI) التابعة لوزارة الاتصالات.</li>
-        <li>💻 مهتم بتطوير الويب باستخدام React, Next.js, و WordPress.</li>
-        <li>📊 أعمل على مشاريع تحليل بيانات باستخدام SQL و Power BI.</li>
+        <li>🔭I'm currenlty working as programming instructor E-Youth for the DECI initiative (MCIT).</li>
+        <li>💻 Focusing on mentoring students in the programming track during their learning journey..</li>
+        <li>🎓 Graduate of Computers  scince and artifial intelligance .</li>
+        <li>☁️ I've keen interest in Web Development & wordpress.</li>
+        <li>📫 Feel free to reach me out  <a href="mailto:mrefaay271@gamil.com">my Gamil<a></li>
       </ul>
     </td>
     <td width="40%">
