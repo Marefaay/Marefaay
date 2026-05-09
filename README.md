@@ -6,7 +6,7 @@
 <!-- الهيدر الرئيسي مع تأثيرات بصرية -->
 <div align="center">
 
-  <h3>🚀 Data Analyst | Programming Instructor</h3>
+  <h1> Data Analyst | Programming Instructor</h1>
   <p><i>Turning complex data into actionable insights & mentoring the next generation of developers.</i></p>
 </div>
 
