@@ -6,7 +6,7 @@
 <!-- الهيدر الرئيسي مع تأثيرات بصرية -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mahmoud%20Ahmed%20Araby&fontSize=70&animation=fadeIn" />
-  <h3>🚀 Data Analyst | Programming Instructor | Web Developer</h3>
+  <h3>🚀 Data Analyst | Programming Instructor</h3>
   <p><i>Turning complex data into actionable insights & mentoring the next generation of developers.</i></p>
 </div>
 
@@ -22,12 +22,11 @@
         <li>🔭 <b>Programming Instructor</b> at <b>E-Youth</b> for the <b>DECI initiative (MCIT)</b>.</li>
         <li>💡 <b>Empowering students</b> to master programming through hands-on mentoring.</li>
         <li>🎓 Graduate of <b>Computers Science and Artificial Intelligence</b>.</li>
-        <li>🌐 Specialist in <b>Web Development</b> (React, Next.js) & <b>WordPress</b> customization.</li>
+        <li>🌐 Interested in <b>Web Development</b> (React) & <b>WordPress</b> customization.</li>
         <li>📊 Expert in <b>Data Analysis</b> using SQL, Power BI, and Python.</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- صورة تقنية متحركة تعطي طابع الـ Matrix والبيانات -->
       <img src="matrix.gif" width="100%" style="border-radius:15px;" />
     </td>
   </tr>
@@ -35,32 +34,41 @@
 
 <br>
 
-<!-- قسم المهارات باستخدام أيقونات ملونة واحترافية -->
+<!-- قسم المهارات المحدث ليشمل الأدوات الجديدة -->
 <div align="center">
   <h2> 🛠️ Tech Stack & Tools </h2>
-  
-  <!-- Data Stack -->
-  <p align="left"><b>📊 Data Analysis:</b></p>
+
+  <!-- Data Analysis Stack -->
+  <p align="left"><b>📊 Data Analysis & BI:</b></p>
   <p align="left">
-    <img src="https://img.shields.io/badge/SQL-acc189?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   </p>
 
-  <!-- Web Stack -->
-  <p align="left"><b>💻 Development:</b></p>
+  <!-- Web Development Stack -->
+  <p align="left"><b>💻 Web Development:</b></p>
   <p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </p>
+
+  <!-- CMS & Design Stack -->
+  <p align="left"><b>🔌 CMS & Page Builders:</b></p>
+  <p align="left">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
   </p>
 </div>
 
 <br>
 
-<!-- إحصائيات GitHub بتصميم متطور -->
+<!-- إحصائيات GitHub -->
 <div align="center">
   <h2> 📈 Activity & Stats </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
@@ -69,13 +77,13 @@
 
 <br>
 
-<!-- قسم التواصل بنظام الأزرار -->
+<!-- قسم التواصل -->
 <div align="center">
   <h2>📫 Let's Connect</h2>
   <a href="mailto:mrefaay271@gamil.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
