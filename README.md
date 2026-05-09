@@ -79,7 +79,9 @@
 </div>
 
 <br>
-## 📈 GitHub Stats
+---
+
+# 📈 GitHub Stats & Activity
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marefaay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -91,11 +93,15 @@
   <img src="https://streak-stats.demolab.com?user=Marefaay&theme=tokyonight"/>
 </p>
 
-<br>
-<!-- قسم نشاط GitHub الأخير -->
+---
+
+# ⚡ Recent GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marefaay&theme=tokyo-night" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Marefaay&theme=tokyo-night" />
 </p>
+
+---
 <br>
 <!-- قسم التواصل -->
 <div>
