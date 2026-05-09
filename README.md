@@ -20,9 +20,13 @@
       <br><br>
       <ul>
         <li style="margin:15px 0;">🔭 <b>Programming Instructor</b> at <b>E-Youth</b> for the <b>DECI initiative (MCIT)</b>.</li>
+       <br/>
         <li style="margin:15px 0;">💡 <b>Empowering students</b> to master programming through hands-on mentoring.</li>
+       <br/>
         <li style="margin:15px 0;">🎓 Graduate of <b>Computers Science and Artificial Intelligence</b>.</li>
+       <br/>
         <li style="margin:15px 0;">🌐 Specializing in <b>Web Development</b> (React, Node.js) & <b>WordPress</b> customization.</li>
+       <br/>
         <li style="margin:15px 0;">📊 Expert in <b>Data Analysis</b> using SQL, Power BI, and Python.</li>
       </ul>
     </td>
