@@ -76,11 +76,11 @@
 
 <br>
 
-<!-- إحصائيات GitHub -->
+<!-- إحصائيات GitHub - تأكد من مطابقة اسم المستخدم بدقة -->
 <div align="center">
   <h2> 📈 Activity & Stats </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Marefaay&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marefaay&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MAAraby&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAAraby&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br>
@@ -90,9 +90,6 @@
   <h2>📫 Let's Connect</h2>
   <a href="mailto:mrefaay271@gamil.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="رابط_حسابك_على_لينكد_إن">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
