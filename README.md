@@ -79,10 +79,16 @@
 </div>
 
 <br>
+## 📈 GitHub Stats
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marefaay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marefaay&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Marefaay&theme=tokyonight"/>
 </p>
 
 <br>
