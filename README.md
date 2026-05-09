@@ -106,7 +106,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=120&section=footer&text=Stay%20awesome!&fontSize=50&animation=fadeIn" />
+  <img src="68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7472616e73706172656e7426746578743d25453225394125413125454625423825384653746179253230617765736f6d6521254532253941254131254546254.svg" />
 </div>
 
 <div align="center">
