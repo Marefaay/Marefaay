@@ -79,8 +79,8 @@
 <!-- إحصائيات GitHub -->
 <div align="center">
   <h2> 📈 Activity & Stats </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=MAAraby&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAAraby&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marefaay&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marefaay&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br>
