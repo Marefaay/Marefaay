@@ -18,12 +18,12 @@
     <td width="60%" valign="top">
       <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/wave.gif" width="30px"> <b>About Me</b>
       <br><br>
-      <ul>
-        <li>🔭 <b>Programming Instructor</b> at <b>E-Youth</b> for the <b>DECI initiative (MCIT)</b>.</li>
-        <li>💡 <b>Empowering students</b> to master programming through hands-on mentoring.</li>
-        <li>🎓 Graduate of <b>Computers Science and Artificial Intelligence</b>.</li>
-        <li>🌐 Interested in <b>Web Development</b> (React) & <b>WordPress</b> customization.</li>
-        <li>📊 Expert in <b>Data Analysis</b> using SQL, Power BI, and Python.</li>
+      <ul >
+        <li style=" margin:15px 0;">🔭 <b>Programming Instructor</b> at <b>E-Youth</b> for the <b>DECI initiative (MCIT)</b>.</li>
+        <li  style=" margin:15px 0;">💡 <b>Empowering students</b> to master programming through hands-on mentoring.</li>
+        <li  style=" margin:15px 0;">🎓 Graduate of <b>Computers Science and Artificial Intelligence</b>.</li>
+        <li  style=" margin:15px 0;">🌐 Interested in <b>Web Development</b> (React) & <b>WordPress</b> customization.</li>
+        <li  style=" margin:15px 0;">📊 Expert in <b>Data Analysis</b> using SQL, Power BI, and Python.</li>
       </ul>
     </td>
     <td width="40%" align="center">
