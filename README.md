@@ -79,7 +79,7 @@
 </div>
 
 <br>
-<div align="center">
+<div >
   <h2> 📈 Activity & Stats </h2>
   <!-- تم تحديث اسم المستخدم إلى Marefaay لضمان عمل الصور -->
   <img src="https://github-readme-stats.vercel.app/api?username=Marefaay&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
@@ -88,7 +88,7 @@
 
 <br>
 <!-- قسم نشاط GitHub الأخير -->
-<div align="center">
+<div >
   <h2> ⚡ Recent GitHub Activity </h2>
   <img src="https://github-contribution-graph.vercel.app/api?username=Marefaay&theme=radical" alt="Marefaay's Contribution Graph" />
 </div>
