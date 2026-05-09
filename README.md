@@ -79,12 +79,11 @@
 </div>
 
 <br>
-<div >
-  <h2> 📈 Activity & Stats </h2>
-  <!-- تم تحديث اسم المستخدم إلى Marefaay لضمان عمل الصور -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Marefaay&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marefaay&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marefaay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marefaay&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 <br>
 <!-- قسم نشاط GitHub الأخير -->
