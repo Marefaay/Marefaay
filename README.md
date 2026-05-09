@@ -103,7 +103,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+<br>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=120&section=footer&text=Stay%20awesome!&fontSize=50&animation=fadeIn" />
+</div>
+
+<div align="center">
+  <code style="color: #2196F3; font-family: monospace; font-size: 1.2em;">
+    Thanks for Visiting
+  </code>
+</div>
 <br>
 <hr>
 <p align="center"><i>"Building the future, one line of code at a time."</i></p>
