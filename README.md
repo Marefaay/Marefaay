@@ -104,7 +104,11 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Marefaay&theme=tokyo-night" />
 </p>
 
----
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Marefaay&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4" />
+</p>
 <br>
 <!-- قسم التواصل -->
 <div>
