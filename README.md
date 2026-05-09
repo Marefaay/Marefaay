@@ -6,28 +6,28 @@
 <!-- الهيدر الرئيسي مع تأثيرات بصرية -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mahmoud%20Ahmed%20Araby&fontSize=70&animation=fadeIn" />
-  <h3>🚀 Data Analyst | Programming Instructor</h3>
+  <h3>🚀 Data Analyst | Programming Instructor | Full-Stack Developer</h3>
   <p><i>Turning complex data into actionable insights & mentoring the next generation of developers.</i></p>
 </div>
 
 <br>
 
 <!-- قسم التعريف الشخصي بنظام البطاقة مع أنيميشن -->
-<table>
+<table style="border:none;">
   <tr>
     <td width="60%" valign="top">
       <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/wave.gif" width="30px"> <b>About Me</b>
       <br><br>
-      <ul >
-        <li style=" margin:15px 0;">🔭 <b>Programming Instructor</b> at <b>E-Youth</b> for the <b>DECI initiative (MCIT)</b>.</li>
-        <li  style=" margin:15px 0;">💡 <b>Empowering students</b> to master programming through hands-on mentoring.</li>
-        <li  style=" margin:15px 0;">🎓 Graduate of <b>Computers Science and Artificial Intelligence</b>.</li>
-        <li  style=" margin:15px 0;">🌐 Interested in <b>Web Development</b> (React) & <b>WordPress</b> customization.</li>
-        <li  style=" margin:15px 0;">📊 Expert in <b>Data Analysis</b> using SQL, Power BI, and Python.</li>
+      <ul>
+        <li style="margin:15px 0;">🔭 <b>Programming Instructor</b> at <b>E-Youth</b> for the <b>DECI initiative (MCIT)</b>.</li>
+        <li style="margin:15px 0;">💡 <b>Empowering students</b> to master programming through hands-on mentoring.</li>
+        <li style="margin:15px 0;">🎓 Graduate of <b>Computers Science and Artificial Intelligence</b>.</li>
+        <li style="margin:15px 0;">🌐 Specializing in <b>Web Development</b> (React, Node.js) & <b>WordPress</b> customization.</li>
+        <li style="margin:15px 0;">📊 Expert in <b>Data Analysis</b> using SQL, Power BI, and Python.</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="matrix.gif" width="100%" style="border-radius:15px;" />
+      <img src="matrix.gif" width="100%" style="border-radius:15px;" alt="Coding Animation" />
     </td>
   </tr>
 </table>
@@ -48,8 +48,16 @@
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   </p>
 
+  <!-- Backend & API Stack -->
+  <p align="left"><b>⚙️ Backend & Database:</b></p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </p>
+
   <!-- Web Development Stack -->
-  <p align="left"><b>💻 Web Development:</b></p>
+  <p align="left"><b>💻 Frontend Development:</b></p>
   <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -71,8 +79,8 @@
 <!-- إحصائيات GitHub -->
 <div align="center">
   <h2> 📈 Activity & Stats </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MAAraby&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAAraby&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br>
@@ -83,7 +91,7 @@
   <a href="mailto:mrefaay271@gamil.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="رابط_حسابك_على_لينكد_إن">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
