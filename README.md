@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="50%">
       <ul>
         <li>🔭I'm currenlty working as programming instructor E-Youth for the DECI initiative (MCIT).</li>
         <li>💻 Focusing on mentoring students in the programming track during their learning journey..</li>
