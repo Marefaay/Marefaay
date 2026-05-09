@@ -87,7 +87,12 @@
 </div>
 
 <br>
-
+<!-- قسم نشاط GitHub الأخير -->
+<div align="center">
+  <h2> ⚡ Recent GitHub Activity </h2>
+  <img src="https://github-contribution-graph.vercel.app/api?username=Marefaay&theme=radical" alt="Marefaay's Contribution Graph" />
+</div>
+<br>
 <!-- قسم التواصل -->
 <div>
   <h2>📫 Let's Connect</h2>
