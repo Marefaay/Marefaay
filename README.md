@@ -80,9 +80,9 @@
 
 <br>
 
-<!-- إحصائيات GitHub - تأكد من مطابقة اسم المستخدم بدقة -->
-<div align="center">
+<!-- إحصائيات GitHub - تأكد من<div align="center">
   <h2> 📈 Activity & Stats </h2>
+  <!-- تم تحديث اسم المستخدم إلى Marefaay لضمان عمل الصور -->
   <img src="https://github-readme-stats.vercel.app/api?username=Marefaay&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marefaay&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
