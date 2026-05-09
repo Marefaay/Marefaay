@@ -1,14 +1,14 @@
 <!-- عداد الزوار بتصميم كبسولة احترافي -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!;I'm+mahmoud+Ahmed+Ahmed+Araby" />
-</p>
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=MAAraby&label=PROFILE+VIEWS&color=0e76a8&style=flat-square" alt="Views" />
 </div>
 
 <!-- الهيدر الرئيسي مع تأثيرات بصرية -->
 <div align="center">
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!;I'm+mahmoud+Ahmed+Ahmed+Araby" />
+</p>
   <h1> Data Analyst | Programming Instructor</h1>
   <p><i>Turning complex data into actionable insights & mentoring the next generation of developers.</i></p>
 </div>
