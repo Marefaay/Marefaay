@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td width="40%">
-      <img src="رابط_صورة_الأنيميشن_هنا" alt="Coding GIF" />
+      <img src="matrix.gif" alt="Coding GIF" />
     </td>
   </tr>
 </table>
