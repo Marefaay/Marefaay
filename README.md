@@ -1,4 +1,7 @@
 <!-- عداد الزوار بتصميم كبسولة احترافي -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Mahmoud+Ahmed+Araby;Data+Analyst;Programming+Instructor;React+%7C+Node.js+Developer" />
+</p>
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=MAAraby&label=PROFILE+VIEWS&color=0e76a8&style=flat-square" alt="Views" />
 </div>
