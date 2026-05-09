@@ -6,7 +6,7 @@
 <!-- الهيدر الرئيسي مع تأثيرات بصرية -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mahmoud%20Ahmed%20Araby&fontSize=70&animation=fadeIn" />
-  <h3>🚀 Data Analyst | Programming Instructor | Full-Stack Developer</h3>
+  <h3>🚀 Data Analyst | Programming Instructor</h3>
   <p><i>Turning complex data into actionable insights & mentoring the next generation of developers.</i></p>
 </div>
 
@@ -90,10 +90,13 @@
 <br>
 
 <!-- قسم التواصل -->
-<div align="center">
+<div>
   <h2>📫 Let's Connect</h2>
   <a href="mailto:mrefaay271@gamil.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/mahmoud-refaay-2730b1218">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
